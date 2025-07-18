@@ -1,6 +1,6 @@
 # Internship Project
 
-This repository contains the code and data for my internship project, submitted to [University Name / Examiner Name].
+This repository contains the code and data for my internship project, submitted to [ybi foundation/dr alok yadav].
 
 The project includes:
 - Data cleaning
